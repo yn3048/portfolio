@@ -39,6 +39,6 @@
 ><p>작업 인원: 1명</p>
 ><p>기술 스택: Photoshop/HTML5/CSS/Jquery</p>
 >
-><a href="https://github.com/yn3048/lotteon-team2">📝Project Repository</a><br>
+><a href="https://github.com/Iloveblueberry/hisffee">📝Project Repository</a><br>
 
 
