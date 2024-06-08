@@ -9,7 +9,7 @@
 
 ><p>롯데e-커머스 LOTTE ON 쇼핑몰 개발</p>
 >
-><p>개발기간: 2024.04.22 ~ 2024.05.17 (20일, 160시간)</p>
+><p>개발 기간: 2024.04.22 ~ 2024.05.17 (20일, 160시간)</p>
 ><p>개발 인원: 4명</p>
 ><p>기술 스택: HTML5/CSS/Thymeleaf/Java/Javascript/QueryDSL/MyBatis/Springboot/MySQL/Github</p>
 >
@@ -25,11 +25,20 @@
 
 ><p>자바, 스프링 활용한 사내 커뮤니티 게시판 사이트 개발</p>
 >
-><p>개발기간: 2024.05.20 ~ 2024.06.21 (25일, 200시간) </p>
+><p>개발 기간: 2024.05.20 ~ 2024.06.21 (진행중) </p>
 ><p>개발 인원: 5명</p>
 ><p>기술 스택: HTML5/React/SCSS/Java/Javascript/QueryDSL/MyBatis/Springboot/MySQL/Github</p>
 >
 ><a href="https://github.com/yn3048/lotteon-team2">📝Project Repository</a><br>
 
+<h3>3.Hisfee coffee(퍼블리싱)</h3>
+
+><p>풀페이지 반응형웹 리디자인&퍼블리싱</p>
+>
+><p>작업 기간: 2024.04.22 ~ 2024.05.17 (20일, 160시간)</p>
+><p>작업 인원: 1명</p>
+><p>기술 스택: Photoshop/Figma/HTML5/CSS/Jquery</p>
+>
+><a href="https://github.com/yn3048/lotteon-team2">📝Project Repository</a><br>
 
 
