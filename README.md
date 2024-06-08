@@ -35,9 +35,9 @@
 
 ><p>풀페이지 반응형웹 리디자인&퍼블리싱</p>
 >
-><p>작업 기간: 2024.04.22 ~ 2024.05.17 (20일, 160시간)</p>
+><p>작업 기간: 2023.09.25 ~ 2024.10.20 (20일) </p>
 ><p>작업 인원: 1명</p>
-><p>기술 스택: Photoshop/Figma/HTML5/CSS/Jquery</p>
+><p>기술 스택: Photoshop/HTML5/CSS/Jquery</p>
 >
 ><a href="https://github.com/yn3048/lotteon-team2">📝Project Repository</a><br>
 
