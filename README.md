@@ -1,4 +1,4 @@
-<h1 style="border-bottom: 1px solid #dddddd;">이예나 포트폴리오</h1><br>
+<h1 style="border-bottom: 1px solid #dddddd;">💻 Yeana's 포트폴리오</h1><br>
 
 ><p>✔ 웹 퍼블리셔로 시작해 신입 웹 개발자를 꿈꾸고 있습니다.</p>
 ><p>✔ 사용자의 입장에서 서비스를 개발하기 위해 노력합니다.</p>
@@ -15,6 +15,11 @@
 ><p>기술 스택: HTML5/CSS/Thymeleaf/Java/Javascript/QueryDSL/MyBatis/Springboot/MySQL/Github</p>
 >
 ><a href="https://github.com/yn3048/lotteon-team2">📝Project Repository</a><br>
-><img src="" />
+><details>
+>  <summary>ERD</summary>
+>  <img src="https://github.com/yn3048/portfolio/assets/154954272/89e0cf7a-4118-4e66-b05c-4b56755564fd" width:900 height:600>
+></details>
+>
+
 
 
