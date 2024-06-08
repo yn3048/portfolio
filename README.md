@@ -29,7 +29,8 @@
 ><p>개발 인원: 5명</p>
 ><p>기술 스택: HTML5/React/SCSS/Java/Javascript/QueryDSL/MyBatis/Springboot/MySQL/Github</p>
 >
-><a href="https://github.com/yn3048/lotteon-team2">📝Project Repository</a><br>
+><a href="https://github.com/yn3048/community_front">📝Project Repository_Front</a><br>
+><a href="https://github.com/yn3048/community_back">📝Project Repository_Back</a><br>
 
 <h3>3.Hisfee coffee(퍼블리싱)</h3>
 
