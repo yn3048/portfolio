@@ -14,6 +14,6 @@
 ><p>개발 인원: 4명</p>
 ><p>기술 스택: HTML5/CSS/Thymeleaf/Java/Javascript/QueryDSL/MyBatis/Springboot/MySQL/Github</p>
 >
-><a href="">Project Repository</a>
+><a href="https://github.com/yn3048/lotteon-team2">Project Repository</a>
 
 
