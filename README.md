@@ -9,7 +9,7 @@
 
 ><p>롯데e-커머스 LOTTE ON 쇼핑몰 개발</p>
 >
-><p>개발 기간: 2024.04.22 ~ 2024.05.17 (20일, 160시간)</p>
+><p>개발 기간: 2024.04.17 ~ 2024.05.17 (1달)</p>
 ><p>개발 인원: 4명</p>
 ><p>기술 스택: HTML5/CSS/Thymeleaf/Java/Javascript/QueryDSL/MyBatis/Springboot/MySQL/Github</p>
 >
