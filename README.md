@@ -14,13 +14,7 @@
 ><p>기술 스택: HTML5/CSS/Thymeleaf/Java/Javascript/QueryDSL/MyBatis/Springboot/MySQL/Github</p>
 >
 ><a href="https://github.com/yn3048/lotteon-team2">📝Project Repository</a><br>
-><details>
->  <summary>ERD</summary>
->  <img src="https://github.com/yn3048/portfolio/assets/154954272/89e0cf7a-4118-4e66-b05c-4b56755564fd" width:900 height:600>
-></details>
->
-><p>시연영상</p>
->
+
 <h3>2.일름보</h3>
 
 ><p>자바, 스프링 활용한 사내 커뮤니티 게시판 사이트 개발</p>
