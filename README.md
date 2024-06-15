@@ -15,18 +15,8 @@
 >
 ><a href="https://github.com/yn3048/lotteon-team2">📝Project Repository</a><br>
 
-<h3>2.일름보</h3>
 
-><p>자바, 스프링 활용한 사내 커뮤니티 게시판 사이트 개발</p>
->
-><p>개발 기간: 2024.05.20 ~ 2024.06.21 (진행중) </p>
-><p>개발 인원: 5명</p>
-><p>기술 스택: HTML5/React/SCSS/Java/Javascript/QueryDSL/MyBatis/Springboot/MySQL/Github</p>
->
-><a href="https://github.com/yn3048/community_front">📝Project Repository_Front</a><br>
-><a href="https://github.com/yn3048/community_back">📝Project Repository_Back</a><br>
-
-<h3>3.Hisfee coffee(퍼블리싱)</h3>
+<h3>2.Hisfee coffee(퍼블리싱)</h3>
 
 ><p>풀페이지 반응형웹 리디자인&퍼블리싱</p>
 >
